@@ -1,0 +1,8 @@
+1.配置需要打包的项目信息
+在idea编辑器里找到Project Structure，在编辑器的右上角，点击该图标
+选择Artifacts,点击新增，选择JAR，然后选择From modules with dependencies
+然后配置打包的配置，输出目录确保是空的,如果输出目录之前打过包，会有存在一个META-INF文件夹，里面存在一个MANIFEST.MF文件,要先删除掉，配置好之后，点击“OK”
+
+2.选择idea的“build”，选择“Build Artifacts”
+如果是第一次打包该项目，选择“build”，如果之前打过，这次重新打包，选择下面的“Rebuild”
+然后到配置的输出目录，找到“out”文件夹，可以找到打包好的Jar包。

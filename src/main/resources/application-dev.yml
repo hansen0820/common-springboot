@@ -1,0 +1,8 @@
+server:
+  servlet:
+    context-path: /springboot
+  port: 8081
+
+people:
+  name: 韩森
+  age: 30
