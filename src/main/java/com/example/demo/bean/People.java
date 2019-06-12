@@ -4,7 +4,7 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;
 
 @Component
-@ConfigurationProperties(prefix = "people")
+@ConfigurationProperties(prefix = "people") // 在配置文件中，以people开头
 public class People {
     private String name;
     private String age;
