@@ -1,0 +1,7 @@
+CTRL+F4  关闭当前窗口
+SHIFT+ENTER 另起一行
+Alt+ left/right 切换代码视图
+CTRL+ALT+ left/right 前后导航编辑过的地方
+Ctr+shift+U 大小写转化
+Alt+Insert 生成代码(如get,set方法,构造函数等)   或者右键（Generate）
+ALT+回车    导入包,自动修正

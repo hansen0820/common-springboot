@@ -6,3 +6,6 @@ server:
 people:
   name: 韩森
   age: 30
+
+netty:
+  port: 11111

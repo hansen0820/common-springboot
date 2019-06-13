@@ -16,5 +16,5 @@ Class-Path: jackson-datatype-jdk8-2.9.8.jar spring-boot-starter-web-2.
  ure-2.1.5.RELEASE.jar spring-aop-5.1.7.RELEASE.jar jboss-logging-3.3.
  2.Final.jar logback-classic-1.2.3.jar jackson-datatype-jsr310-2.9.8.j
  ar jackson-databind-2.9.8.jar
-Main-Class: com.example.demo.SpringbootApplication
+Main-Class: com.example.demo.SpringbootApplication1
 
